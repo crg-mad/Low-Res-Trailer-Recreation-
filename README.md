@@ -7,7 +7,7 @@ Yes this modpack will continue to recieve updates as Minecraft updates keep comi
 
 ---
 
-You can report issues [here](https://github.com/crg-mad/Low-Res-Trailer-Recreation-/issues)
+For issue reporting, click [here](https://github.com/crg-mad/Low-Res-Trailer-Recreation-/issues). For the modpack download, click [here](https://modrinth.com/modpack/low-res-trailer-recreation-+)
 
 ---
 
