@@ -5,9 +5,7 @@ Low Res Trailer Recreation + is a continued version of [Low Res Trailer Recreati
 
 Yes this modpack will continue to recieve updates as Minecraft updates keep coming out. Same thing goes with mod updates.
 
----
-
-For issue reporting, click [here](https://github.com/crg-mad/Low-Res-Trailer-Recreation-/issues). For the modpack download, click [here](https://modrinth.com/modpack/low-res-trailer-recreation-+)
+Report issues [here](https://github.com/crg-mad/Low-Res-Trailer-Recreation-/issues). Download the modpack [here](https://modrinth.com/modpack/low-res-trailer-recreation-+)
 
 ---
 
